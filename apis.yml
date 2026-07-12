@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://docs.thecatapi.com/
 common:
+  - type: DomainSecurity
+    url: security/cats-domain-security.yml
   - type: Website
     url: https://docs.thecatapi.com/
   - type: PublicAPIsListing
