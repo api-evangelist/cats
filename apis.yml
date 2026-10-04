@@ -39,7 +39,6 @@ apis:
   - name: Cats
     description: "Pictures of cats from Tumblr"
     humanURL: https://docs.thecatapi.com/
-    baseURL: https://docs.thecatapi.com/
     tags:
       - Animals
     properties:
